@@ -8,7 +8,7 @@ title: 项目配置
 * 百度智能小程序，[project.swan.json](https://smartprogram.baidu.com/docs/develop/devtools/projectconfig/)
 * 字节跳动小程序，[project.config.json](https://microapp.bytedance.com/docs/zh-CN/mini-app/develop/framework/basic-reference/catalog-structure/#projectconfigjson-%E9%85%8D%E7%BD%AE%E4%BB%8B%E7%BB%8D)
 * QQ 小程序，project.config.json
-* 支付宝小程序，暂无发现
+* 支付宝小程序，mini.project.json
 * 京东小程序，暂无发现
 
 为了能够适配不同小程序平台的配置文件不同的情况，Taro 支持为各个小程序平台添加各自的项目配置文件。
